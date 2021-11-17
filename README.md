@@ -2,9 +2,9 @@
 
 Find the perfect movie to watch you didn’t even know exist. Just tell filmless what you’re into, and we’ll do the rest.
 
-Welcome Page            |  Main App
-:-------------------------:|:-------------------------:
-![](screen/img1.png)  |  ![](screen/img2.png)
+Welcome Page            |  Main App            |  3
+:-------------------------:|:-------------------------:|:-------------------------:
+![](screen/img1.png)  |  ![](screen/img2.png)   |   ![](screen/img1.png)
 
 # running the project
 
