@@ -2,13 +2,13 @@
 
 Find the perfect movie to watch you didn’t even know exist. Just tell filmless what you’re into, and we’ll do the rest.
 
-Welcome Page            |  SignUp Page           |  SignIn Page
+Welcome Page            |  SignIn Page           |  SignUp Page
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](screen/img1.png)  |  ![](screen/img3.png)   |   ![](screen/img4.png)
 
-Welcome Page            |  SignUp Page           |  SignIn Page    |  SignIn Page
+Discover Tab          |  Watchlist Tab         |  Lists Tab    |  Search Tab
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](screen/img5.png)  |  ![](screen/img6.png)   |   ![](screen/img7.png) |   ![](screen/img8.png)
+![](screen/img8.png)  |  ![](screen/img7.png)   |   ![](screen/img6.png) |   ![](screen/img5.png)
 
 
 # running the project
