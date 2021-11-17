@@ -2,6 +2,10 @@
 
 Find the perfect movie to watch you didn’t even know exist. Just tell filmless what you’re into, and we’ll do the rest.
 
+Welcome Page            |  Main App
+:-------------------------:|:-------------------------:
+![](screen/img1.png)  |  ![](screen/img2.png)
+
 # running the project
 
 In order to run the project, you need to first create a `env.js` file in the root of the project.
