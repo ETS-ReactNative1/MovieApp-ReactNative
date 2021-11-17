@@ -16,6 +16,17 @@ The API key is a private key generated from TMDb. To generate an API key [visit 
 
 You can then run the app by running:
 
+Run the server:
+```sh
+cd server/
+npm i
+npm run dev
 ```
 
+Run the client:
+```sh
+cd client/
+yarn
+expo start
+i
 ```
